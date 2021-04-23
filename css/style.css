@@ -4,6 +4,11 @@
 p {
     font-size: x-large;
     color: black;
+    margin: 5em 0 0 auto;
+}
+
+i {
+    color: red;
 }
 
 /* Selector de class*/
